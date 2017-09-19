@@ -1,0 +1,1 @@
+# linux_nvidia_get_temp_avg
